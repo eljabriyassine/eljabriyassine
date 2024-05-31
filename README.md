@@ -1,7 +1,7 @@
 <div>
     <div align=center>
         <p align=center>
-            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NicW5zejg2MW5uYWk1dDJkeHE5azJrdXBhbTE2Y2VlZnJ3NWg5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
         </p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+EL+JABRI+YASSINE%F0%9F%91%8B;SOFTWARE+ENGINEERING+STUDENT+;FULL-STACK+DEVELOPER;ALGORAND+BLOCKCHAIN+DEVELOPER;" alt="Headline" />
         <br><br>
@@ -175,18 +175,6 @@
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=eljabriyassine&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
-	</div>
-	<div align=center>
-		<h1>🔥 GitHub Activity</h1>
-            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
-        </p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+EL+JABRI+YASSINE%F0%9F%91%8B;SOFTWARE+ENGINEERING+STUDENT+;FULL-STACK+DEVELOPER;ALGORAND+BLOCKCHAIN+DEVELOPER;" alt="Headline" />
-        <br><br>
-        <a href="https://github.com/eljabriyassine?tab=views">
-		<br>
-		<div>
-			<img src="https://activity-graph.herokuapp.com/graph?username=eljabriyassine&bg_color=ffffff&color=4c71f2&line=4c71f2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="550" />
-		</div>
 	</div>
     <br>
     <br>
