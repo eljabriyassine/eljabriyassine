@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=1407F7&background=1D45FF00&size=32&center=true&vCenter=true&width=600&height=50&lines=HI+THERE+I'M+EL+JABRI+YASSINE%F0%9F%91%8B;SOFTWARE+ENGINEERING+;FULL-STACK+DEVELOPER;ALGORAND+BLOCKCHAIN+DEVELOPER;" alt="Headline" />
         <br><br>
         <a href="https://github.com/eljabriyassine?tab=views">
-            <img alt="views" title="View of my profile" src="https://komarev.com/ghpvc/?username=eljabriyassine&label=Views&color=1407F7&style=for-the-badge" />
+           
         </a>
         <a href="https://github.com/eljabriyassine?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=1407F7&labelColor=1407F7&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/eljabriyassine"/>
